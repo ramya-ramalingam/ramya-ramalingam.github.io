@@ -12,7 +12,7 @@ My name is Ramya, and I’m majoring in mathematics and computer science at Harv
 
 ## About My Mentor
 
-I am working at the University of Illinois Urbana-Champaign with Professor Kris Hauser, who is an Associate Professor in the Department of Computer Science and the Department of Electric and Computer Engineering. His research is in the area of robotics and its applications. You can find out more about Prof. Hauser on [his website]( https://kkhauser.web.illinois.edu/).
+I am working at the University of Illinois Urbana-Champaign with Professor Kris Hauser, who is an Associate Professor in the Department of Computer Science and the Department of Electric and Computer Engineering. His research is in the area of robotics and its applications. You can find out more about Prof. Hauser at [his website]( https://kkhauser.web.illinois.edu/).
 
 ## About My Project
 
