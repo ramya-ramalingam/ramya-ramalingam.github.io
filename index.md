@@ -21,5 +21,5 @@ My project this summer is part of an overall proposal to build a disinfection ro
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
+Please visit [my blog](blog.html) to see real-time updates and progress on the work I'm doing! 
 
-[My Blog](blog.html)
