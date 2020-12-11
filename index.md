@@ -18,6 +18,8 @@ I am working at the University of Illinois Urbana-Champaign with Professor Kris 
 
 My project this summer is part of an overall proposal to build a disinfection robot. Facilities that require regular and proper sanitization, such as hospitals, would benefit from an automated system capable of taking over from humans who are susceptible to infection. One method of sanitization that seems suitable is ultraviolet light, as the radiation is effective at killing microbes. This project focuses on designing an autonomous robot that uses UV light and is capable of moving around its environment to disinfect touch surfaces. There's many different moving parts involved in building a fully functional robot, and specifically, I am working on the aspect of motion-planning, aiming to determine a path for the UV source which provides every relevant surface with the appropriate dose of radiation for disinfection. 
 
+Based on my work over the summer, I wrote a research paper along with my graduate student mentor (João Marques), a postdoc working in Prof. Hauser's lab (Zherong Pan) and Prof. Hauser. We have submitted the paper to the 2021 International Conference on Robotics and Automation (ICRA 2021). You can view the paper here:
+
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
